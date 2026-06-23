@@ -12,7 +12,7 @@
 
 ## Demo Video
 
-_Placeholder — to be recorded_
+https://www.loom.com/share/84e9d885264343bdb24e1ab84be1cdbd
 
 ---
 
@@ -56,7 +56,7 @@ _Placeholder — to be recorded_
 
 - **Delete document UI** — the backend `DELETE /api/documents/:id` route is implemented and tested; the UI button was intentionally omitted without a confirmation dialog (accidental deletion is bad UX)
 - **Revoke share access** — the backend `DELETE /api/documents/:id/shares/:shareId` route exists; the ShareModal UI does not yet show a remove button
-- **Demo video** — placeholder above
+- **Revoke share UI** — ShareModal lists shares but has no remove button yet
 
 ---
 
